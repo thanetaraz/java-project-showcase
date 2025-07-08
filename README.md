@@ -1,1 +1,2 @@
-# java-project-showcase
+# Fun Java projects made for learning and experimenting.
+
